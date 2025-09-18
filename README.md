@@ -1,1 +1,1 @@
-# ROSS-Corpus-Handwriting-NDD-TS2Img
+# CROSS-Corpus-Handwriting-NDD-TS2Img
